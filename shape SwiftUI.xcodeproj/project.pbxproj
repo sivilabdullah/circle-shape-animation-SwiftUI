@@ -11,6 +11,8 @@
 		C384452D2A33240A00540A13 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C384452C2A33240A00540A13 /* ContentView.swift */; };
 		C384452F2A33240C00540A13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C384452E2A33240C00540A13 /* Assets.xcassets */; };
 		C38445322A33240C00540A13 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C38445312A33240C00540A13 /* Preview Assets.xcassets */; };
+		C38445392A33248600540A13 /* CirculShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = C38445382A33248600540A13 /* CirculShape.swift */; };
+		C384453B2A3327EB00540A13 /* Circul.swift in Sources */ = {isa = PBXBuildFile; fileRef = C384453A2A3327EB00540A13 /* Circul.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		C384452C2A33240A00540A13 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C384452E2A33240C00540A13 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C38445312A33240C00540A13 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C38445382A33248600540A13 /* CirculShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CirculShape.swift; sourceTree = "<group>"; };
+		C384453A2A3327EB00540A13 /* Circul.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Circul.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				C384452C2A33240A00540A13 /* ContentView.swift */,
 				C384452E2A33240C00540A13 /* Assets.xcassets */,
 				C38445302A33240C00540A13 /* Preview Content */,
+				C38445382A33248600540A13 /* CirculShape.swift */,
+				C384453A2A3327EB00540A13 /* Circul.swift */,
 			);
 			path = "shape SwiftUI";
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C38445392A33248600540A13 /* CirculShape.swift in Sources */,
+				C384453B2A3327EB00540A13 /* Circul.swift in Sources */,
 				C384452D2A33240A00540A13 /* ContentView.swift in Sources */,
 				C384452B2A33240A00540A13 /* shape_SwiftUIApp.swift in Sources */,
 			);
